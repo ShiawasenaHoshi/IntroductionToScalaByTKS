@@ -1,4 +1,4 @@
-package part_3._1_5
+package part_3._2_4
 
 import scala.math.BigDecimal.RoundingMode.HALF_UP
 
